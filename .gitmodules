@@ -6,9 +6,9 @@
 	url = https://github.com/aanupam23/hugo-sugoi.git
 [submodule "lumico/lumico.github.io"]
 	path = lumico/lumico.github.io
-	url = https://github.com/krish6k/lumico.github.io.git
+	url = https://github.com/krish6k/lumicoblog.github.io.git
 	branch = main
 [submodule "lumico/public"]
 	path = lumico/public
-	url = https://github.com/krish6k/lumico.github.io.git
+	url = https://github.com/krish6k/lumicoblog.github.io.git
 	branch = main
