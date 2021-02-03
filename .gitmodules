@@ -4,8 +4,8 @@
 [submodule "lumico/themes/hugo-sugoi"]
 	path = lumico/themes/hugo-sugoi
 	url = https://github.com/aanupam23/hugo-sugoi.git
-[submodule "lumico/lumico.github.io"]
-	path = lumico/lumico.github.io
+[submodule "lumicoblog/lumico.github.io"]
+	path = lumico/lumicoblog.github.io
 	url = https://github.com/krish6k/lumicoblog.github.io.git
 	branch = main
 [submodule "lumico/public"]
