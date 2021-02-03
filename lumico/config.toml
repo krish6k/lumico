@@ -1,0 +1,4 @@
+baseURL = "https://lumico.github.io/"
+languageCode = "en-us"
+title = "Lumico"
+theme="contrast-hugo"
